@@ -14,7 +14,7 @@ margin-bottom: 0%;
 .cls1 form:hover{
     box-shadow: 2px 2px 2px 2px rgba(128, 128, 128, 0.548);
 }
-.cls2 h2 {
+.cls2 h4 {
     text-align: center;
     font-size: 70px;
     border-bottom: 2px solid rgba(128, 128, 128, 0.566);
